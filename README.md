@@ -63,4 +63,4 @@ This repository contains a final academic project analyzing bulk and single-cell
 - **Or Shahar**
 - **Daniel Brooker**
 ---
-
+- This project was completed as part of the Neuro-Genomics course at Bar-Ilan university.
