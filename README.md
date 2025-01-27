@@ -60,8 +60,7 @@ This repository contains a final academic project analyzing bulk and single-cell
    git clone https://github.com/orshahar1/Neurogenomics_Project.git
 
 ## Contributors
-- **Or Shahar**: 
-  - Role: Project lead. Responsible for analysis, visualization, and report preparation.
-  - Contact: [GitHub](https://github.com/orshahar1) | [LinkedIn](https://linkedin.com/in/orshahar)
-
+- **Or Shahar**
+- **Daniel Brooker**
 ---
+
